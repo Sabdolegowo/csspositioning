@@ -1,0 +1,143 @@
+.box1 {
+  width: 200px;
+  height: 700px;
+  background-color: rgb(255, 225, 93);
+  border: 1px solid black;
+  margin: 20px 20px 20px 30px;
+  float: left;
+  position: relative;
+}
+
+.box2 {
+  width: 200px;
+  height: 700px;
+  background-color: rgb(255, 114, 58);
+  border: 1px solid black;
+  margin: 20px 20px 20px 30px;
+  float: left;
+  position: relative;
+}
+
+.box3 {
+  width: 200px;
+  height: 700px;
+  background-color: hsl(93, 89%, 75%);
+  border: 1px solid black;
+  margin: 20px 20px 20px 30px;
+  float: left;
+  position: relative;
+}
+
+.box4 {
+  width: 200px;
+  height: 700px;
+  background-color: #62ffea;
+  border: 1px solid black;
+  margin: 20px 20px 20px 30px;
+  float: left;
+  position: relative;
+}
+
+.kotak1 {
+  width: 1200px;
+  height: 100px;
+  background-color: hsl(93, 89%, 75%);
+  border: 1px solid black;
+  margin-left: 80px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.kotak2 {
+  width: 250px;
+  height: 250px;
+  background-color: rgb(255, 225, 93);
+  border: 1px solid black;
+  margin-left: 80px;
+  margin-top: 40px;
+  position: absolute;
+}
+
+.kotak21 {
+  width: 881px;
+  height: 250px;
+  background-color: rgb(255, 114, 58);
+  border: 1px solid black;
+  margin-left: 400px;
+  margin-top: 60px;
+  position: static;
+}
+
+.kotak3 {
+  width: 250px;
+  height: 210px;
+  background-color: rgb(255, 225, 93);
+  border: 1px solid black;
+  margin-left: 80px;
+
+  position: absolute;
+}
+
+.kotak31 {
+  width: 881px;
+  height: 210px;
+  background-color: #62ffea;
+  border: 1px solid black;
+  margin-left: 400px;
+  margin-top: 30px;
+  position: static;
+}
+
+.ktk1 {
+  width: 240px;
+  height: 100px;
+  background-color: rgb(255, 225, 93);
+  border: 1px solid black;
+  margin-left: 25px;
+  position: absolute;
+}
+
+.ktk11 {
+  width: 960px;
+  height: 100px;
+  background-color: rgb(255, 114, 58);
+  border: 1px solid black;
+  margin-left: 285px;
+  margin-top: 20px;
+}
+
+.ktk2 {
+  width: 240px;
+  height: 600px;
+  background-color: hsl(93, 89%, 75%);
+  border: 1px solid black;
+  margin-left: 25px;
+  margin-top: 20px;
+  position: absolute;
+}
+.ktk21 {
+  width: 700px;
+  height: 600px;
+  background-color: gray;
+  border: 1px solid black;
+  margin-left: 285px;
+  margin-top: 20px;
+}
+.ktk22 {
+  width: 240px;
+  height: 600px;
+  background-color: #62ffea;
+  border: 1px solid black;
+  margin-left: 200px;
+  margin-top: 20px;
+  margin-right: 84px;
+  float: right;
+}
+.ktk3 {
+  width: 1225px;
+  height: 100px;
+  background-color: #0051ff;
+  border: 1px solid black;
+  margin-left: 25px;
+  margin-top: 20px;
+}
